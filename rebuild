@@ -95,7 +95,7 @@ h6_kernel=("6.6.y")
 specific_6xy=("6.1.y" "6.6.y" "6.12.y")
 specific_5xy=("5.4.y" "5.10.y" "5.15.y")
 # Set to automatically use the latest kernel
-auto_kernel="true"
+auto_kernel="false"
 # Initialize the kernel array
 declare -A tags_list
 
